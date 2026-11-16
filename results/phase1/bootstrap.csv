@@ -1,0 +1,9 @@
+Comparison,Input,Videos,Mean_MAE_difference_pp,95CI
+S-Aug-KD - S-Aug,clean,644,+0.167,"[+0.007, +0.322]"
+S-Aug-KD - S-Aug,gamma,644,+0.081,"[-0.071, +0.229]"
+S-Aug-KD - S-Aug,blur,644,+0.193,"[+0.052, +0.329]"
+S-Aug-KD - S-Aug,depth,644,+0.136,"[-0.022, +0.292]"
+S-KD - S-Sup,clean,644,-0.084,"[-0.232, +0.068]"
+S-KD - S-Sup,gamma,644,-0.232,"[-0.374, -0.092]"
+S-KD - S-Sup,blur,644,-0.316,"[-0.478, -0.154]"
+S-KD - S-Sup,depth,644,-0.125,"[-0.260, +0.010]"
