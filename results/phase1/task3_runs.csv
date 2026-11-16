@@ -1,0 +1,13 @@
+Condition,Seed,Predictions,Column
+S-Sup,1001,output/phase1/clean_eval/job_429/predictions.csv,S_Sup_EF
+S-Sup,1002,output/phase1/eval/s_sup_seed1002/clean_full_job445/predictions.csv,Student_EF
+S-Sup,1003,output/phase1/eval/s_sup_seed1003/clean_full_job448/predictions.csv,Student_EF
+S-KD,1001,output/phase1/eval/s_kd_seed1001/clean_full_job436/predictions.csv,Student_EF
+S-KD,1002,output/phase1/eval/s_kd_seed1002/clean_full_job447/predictions.csv,Student_EF
+S-KD,1003,output/phase1/eval/s_kd_seed1003/clean_full_job449/predictions.csv,Student_EF
+S-Aug,1001,output/phase1/eval/s_aug_seed1001/clean_full_job454/predictions.csv,Student_EF
+S-Aug,1002,output/phase1/eval/s_aug_seed1002/clean_full_job458/predictions.csv,Student_EF
+S-Aug,1003,output/phase1/eval/s_aug_seed1003/clean_full_job462/predictions.csv,Student_EF
+S-Aug-KD,1001,output/phase1/eval/s_aug_kd_seed1001/clean_full_job455/predictions.csv,Student_EF
+S-Aug-KD,1002,output/phase1/eval/s_aug_kd_seed1002/clean_full_job459/predictions.csv,Student_EF
+S-Aug-KD,1003,output/phase1/eval/s_aug_kd_seed1003/clean_full_job463/predictions.csv,Student_EF
