@@ -23,7 +23,7 @@ We selected X3D-M trained with standard data augmentation (S-Aug) as the compact
 | Augmentation vs. stress test | Augmentation changes inputs during training, while stress testing measures how trained models respond to fixed input changes. I used random brightness, contrast, and gamma adjustments for training and fixed gamma changes, blur, and depth attenuation for evaluation. |
 | Efficiency metrics | Parameter count measures model size, latency measures prediction time, and peak GPU memory measures the highest allocation during inference. On the same GPU and at the same precision, median single-clip latency was **10.46 ms** for X3D-M and **25.49 ms** for PanEcho. |
 | Data separation | Each split has a specific purpose. I used `TRAIN` to fit the student, `model_selection` to choose checkpoints, and `pilot_eval` to compare models. The last two each had 644 videos from the official validation split.. |
-###
+# Task 2. Set Up the Teacher and Train the Supervised Compact Baseline
 ## A. Prepare the PanEcho Teacher
 
 I loaded the public PanEcho v1.0 checkpoint (`panecho.pt`), froze its weights, and verified that repeated inference on the same clip gave matching EF predictions. The PanEcho paper lists EchoNet-Dynamic as an external validation dataset, and the repository documents fine-tuning on it as a separate experiment. [PanEcho paper](https://doi.org/10.1001/jama.2025.8731) · [Official repository](https://github.com/CarDS-Yale/PanEcho)
