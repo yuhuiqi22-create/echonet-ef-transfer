@@ -17,4 +17,4 @@ Both full jobs logged the completion marker. The [job 543](logs/job543_progress.
 - Repeat clean inference on the first 16 videos produced identical outputs for all three systems. The official test set was not used.
 - All [104 independent checks](summary/independent_check.csv) and the recorded final audit passed.
 - [Coverage](summary/coverage.csv), [MAE](summary/accuracy.csv), [prediction drift and Bland–Altman limits](summary/drift_bland_altman.csv).
-- [Phase 2 report and figures](../../reports/phase2/PHASE2_REPORT.md) and [original inference and analysis workflow](../../scripts/phase2/README_RUN.md).
+
