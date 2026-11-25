@@ -1,0 +1,4 @@
+model,expected_videos,clean,gamma,contrast,blur,missing_or_failed,extra,source_run
+R(2+1)D-18,644,644,644,644,644,0,0,runs/full_job543
+X3D-M S-Sup,644,644,644,644,644,0,0,runs/full_job544
+PanEcho,644,644,644,644,644,0,0,runs/full_job544

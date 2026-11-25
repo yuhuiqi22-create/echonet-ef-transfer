@@ -1,0 +1,4 @@
+model,mean_abs_drift,bias,lower_loa,upper_loa
+R(2+1)D-18,0.0,0.0,0.0,0.0
+X3D-M S-Sup,0.0,0.0,0.0,0.0
+PanEcho,0.0,0.0,0.0,0.0

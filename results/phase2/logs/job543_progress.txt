@@ -1,0 +1,23 @@
+32/644 videos | 420s | failures 0
+64/644 videos | 841s | failures 0
+96/644 videos | 1249s | failures 0
+128/644 videos | 1617s | failures 0
+160/644 videos | 1965s | failures 0
+192/644 videos | 2352s | failures 0
+224/644 videos | 2750s | failures 0
+256/644 videos | 3074s | failures 0
+288/644 videos | 3431s | failures 0
+320/644 videos | 3805s | failures 0
+352/644 videos | 4200s | failures 0
+384/644 videos | 4587s | failures 0
+416/644 videos | 4975s | failures 0
+448/644 videos | 5363s | failures 0
+480/644 videos | 5716s | failures 0
+512/644 videos | 6105s | failures 0
+544/644 videos | 6462s | failures 0
+576/644 videos | 6876s | failures 0
+608/644 videos | 7279s | failures 0
+640/644 videos | 7660s | failures 0
+644/644 videos | 7711s | failures 0
+Repeat-inference max |clip diff| (pp): {'r2plus1d_18': 0.0}
+PHASE2_PREDICT_COMPLETED

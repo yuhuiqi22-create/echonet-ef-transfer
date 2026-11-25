@@ -1,0 +1,172 @@
+model,condition,quantity,value
+R(2+1)D-18,Gamma,delta_mae,0.03850174555900665
+R(2+1)D-18,Gamma,rel_delta_mae,0.009182359237518157
+R(2+1)D-18,Gamma,median_abs_drift,0.5800449999999984
+R(2+1)D-18,Gamma,p95_abs_drift,1.7633065999999935
+R(2+1)D-18,Gamma,max_abs_drift,4.264923000000003
+R(2+1)D-18,Gamma,bias,-0.5094743027950309
+R(2+1)D-18,Gamma,sd,0.7447856955481686
+R(2+1)D-18,Gamma,lower_loa,-1.9692542660694414
+R(2+1)D-18,Gamma,upper_loa,0.9503056604793797
+R(2+1)D-18,Gamma,loa_width,2.9195599265488212
+R(2+1)D-18,Gamma,share_err_up,0.5201863354037267
+R(2+1)D-18,Gamma,mean_abs_change_abs_err,0.6778542328260867
+R(2+1)D-18,Gamma,share_diff_positive,0.18944099378881987
+R(2+1)D-18,Gamma,share_diff_negative,0.8105590062111802
+R(2+1)D-18,Gamma,share_outside_loa,0.055900621118012424
+R(2+1)D-18,Gamma,pearson_r,0.9981262800612574
+R(2+1)D-18,Gamma,ols_slope_diff_vs_mean,-0.01091380190139503
+R(2+1)D-18,Contrast,delta_mae,-0.003289120931675882
+R(2+1)D-18,Contrast,rel_delta_mae,-0.0007844291091686175
+R(2+1)D-18,Contrast,median_abs_drift,0.532612499999999
+R(2+1)D-18,Contrast,p95_abs_drift,1.9326739499999999
+R(2+1)D-18,Contrast,max_abs_drift,4.46255
+R(2+1)D-18,Contrast,bias,-0.379261541925466
+R(2+1)D-18,Contrast,sd,0.8845434337794666
+R(2+1)D-18,Contrast,lower_loa,-2.1129666721332208
+R(2+1)D-18,Contrast,upper_loa,1.3544435882822885
+R(2+1)D-18,Contrast,loa_width,3.4674102604155093
+R(2+1)D-18,Contrast,share_err_up,0.5062111801242236
+R(2+1)D-18,Contrast,mean_abs_change_abs_err,0.6857573573913044
+R(2+1)D-18,Contrast,share_diff_positive,0.32298136645962733
+R(2+1)D-18,Contrast,share_diff_negative,0.6770186335403726
+R(2+1)D-18,Contrast,share_outside_loa,0.052795031055900624
+R(2+1)D-18,Contrast,pearson_r,0.9974061745976951
+R(2+1)D-18,Contrast,ols_slope_diff_vs_mean,0.011959168167491941
+R(2+1)D-18,Blur,delta_mae,0.012654018322981742
+R(2+1)D-18,Blur,rel_delta_mae,0.0030178824453992686
+R(2+1)D-18,Blur,median_abs_drift,0.5009820000000005
+R(2+1)D-18,Blur,p95_abs_drift,1.9870353000000012
+R(2+1)D-18,Blur,max_abs_drift,4.032252
+R(2+1)D-18,Blur,bias,-0.04657342391304349
+R(2+1)D-18,Blur,sd,0.932879030303035
+R(2+1)D-18,Blur,lower_loa,-1.875016323306992
+R(2+1)D-18,Blur,upper_loa,1.781869475480905
+R(2+1)D-18,Blur,loa_width,3.656885798787897
+R(2+1)D-18,Blur,share_err_up,0.4953416149068323
+R(2+1)D-18,Blur,mean_abs_change_abs_err,0.6649138506832298
+R(2+1)D-18,Blur,share_diff_positive,0.4611801242236025
+R(2+1)D-18,Blur,share_diff_negative,0.5388198757763976
+R(2+1)D-18,Blur,share_outside_loa,0.06521739130434782
+R(2+1)D-18,Blur,pearson_r,0.9972468717711539
+R(2+1)D-18,Blur,ols_slope_diff_vs_mean,-0.02549872601167234
+X3D-M S-Sup,Gamma,delta_mae,0.40460713478260857
+X3D-M S-Sup,Gamma,rel_delta_mae,0.06834663634436695
+X3D-M S-Sup,Gamma,median_abs_drift,1.0956240000000008
+X3D-M S-Sup,Gamma,p95_abs_drift,3.175825249999995
+X3D-M S-Sup,Gamma,max_abs_drift,5.368771000000002
+X3D-M S-Sup,Gamma,bias,-1.1914914891304347
+X3D-M S-Sup,Gamma,sd,1.0673156898470528
+X3D-M S-Sup,Gamma,lower_loa,-3.2834302412306577
+X3D-M S-Sup,Gamma,upper_loa,0.9004472629697886
+X3D-M S-Sup,Gamma,loa_width,4.183877504200447
+X3D-M S-Sup,Gamma,share_err_up,0.6599378881987578
+X3D-M S-Sup,Gamma,mean_abs_change_abs_err,1.2293607511180122
+X3D-M S-Sup,Gamma,share_diff_positive,0.08385093167701864
+X3D-M S-Sup,Gamma,share_diff_negative,0.9161490683229814
+X3D-M S-Sup,Gamma,share_outside_loa,0.059006211180124224
+X3D-M S-Sup,Gamma,pearson_r,0.9950634321082475
+X3D-M S-Sup,Gamma,ols_slope_diff_vs_mean,0.01447003374162865
+X3D-M S-Sup,Contrast,delta_mae,1.5519677831677008
+X3D-M S-Sup,Contrast,rel_delta_mae,0.26215992891802936
+X3D-M S-Sup,Contrast,median_abs_drift,3.1806680000000007
+X3D-M S-Sup,Contrast,p95_abs_drift,5.966331849999997
+X3D-M S-Sup,Contrast,max_abs_drift,9.461409000000003
+X3D-M S-Sup,Contrast,bias,-3.388220447204969
+X3D-M S-Sup,Contrast,sd,1.3236935878690108
+X3D-M S-Sup,Contrast,lower_loa,-5.98265987942823
+X3D-M S-Sup,Contrast,upper_loa,-0.7937810149817079
+X3D-M S-Sup,Contrast,loa_width,5.188878864446522
+X3D-M S-Sup,Contrast,share_err_up,0.717391304347826
+X3D-M S-Sup,Contrast,mean_abs_change_abs_err,3.1068812665217393
+X3D-M S-Sup,Contrast,share_diff_positive,0.0
+X3D-M S-Sup,Contrast,share_diff_negative,1.0
+X3D-M S-Sup,Contrast,share_outside_loa,0.05434782608695652
+X3D-M S-Sup,Contrast,pearson_r,0.9925239217827146
+X3D-M S-Sup,Contrast,ols_slope_diff_vs_mean,0.021284729055761054
+X3D-M S-Sup,Blur,delta_mae,0.524152195434783
+X3D-M S-Sup,Blur,rel_delta_mae,0.08854030591855622
+X3D-M S-Sup,Blur,median_abs_drift,1.4337095000000026
+X3D-M S-Sup,Blur,p95_abs_drift,3.8657334000000003
+X3D-M S-Sup,Blur,max_abs_drift,7.315431000000004
+X3D-M S-Sup,Blur,bias,-1.345282048136646
+X3D-M S-Sup,Blur,sd,1.4837007710484327
+X3D-M S-Sup,Blur,lower_loa,-4.253335559391574
+X3D-M S-Sup,Blur,upper_loa,1.5627714631182819
+X3D-M S-Sup,Blur,loa_width,5.816107022509856
+X3D-M S-Sup,Blur,share_err_up,0.6180124223602484
+X3D-M S-Sup,Blur,mean_abs_change_abs_err,1.5272422316459628
+X3D-M S-Sup,Blur,share_diff_positive,0.15527950310559005
+X3D-M S-Sup,Blur,share_diff_negative,0.84472049689441
+X3D-M S-Sup,Blur,share_outside_loa,0.06055900621118013
+X3D-M S-Sup,Blur,pearson_r,0.9900878867198477
+X3D-M S-Sup,Blur,ols_slope_diff_vs_mean,-0.01638617611000099
+PanEcho,Gamma,delta_mae,-0.044226721925465284
+PanEcho,Gamma,rel_delta_mae,-0.007649585735032967
+PanEcho,Gamma,median_abs_drift,0.5242550000000001
+PanEcho,Gamma,p95_abs_drift,2.820798950000004
+PanEcho,Gamma,max_abs_drift,8.392862000000001
+PanEcho,Gamma,bias,0.09051720652173909
+PanEcho,Gamma,sd,1.3620446555312873
+PanEcho,Gamma,lower_loa,-2.579090318319584
+PanEcho,Gamma,upper_loa,2.760124731363062
+PanEcho,Gamma,loa_width,5.339215049682646
+PanEcho,Gamma,share_err_up,0.4751552795031056
+PanEcho,Gamma,mean_abs_change_abs_err,0.8578294078260871
+PanEcho,Gamma,share_diff_positive,0.5729813664596274
+PanEcho,Gamma,share_diff_negative,0.42701863354037267
+PanEcho,Gamma,share_outside_loa,0.062111801242236024
+PanEcho,Gamma,pearson_r,0.991624124444886
+PanEcho,Gamma,ols_slope_diff_vs_mean,0.020381406627082228
+PanEcho,Contrast,delta_mae,0.03179933981366556
+PanEcho,Contrast,rel_delta_mae,0.005500108659014589
+PanEcho,Contrast,median_abs_drift,0.9386250000000018
+PanEcho,Contrast,p95_abs_drift,4.848994200000006
+PanEcho,Contrast,max_abs_drift,11.959535000000002
+PanEcho,Contrast,bias,0.46388113819875754
+PanEcho,Contrast,sd,2.0281969073835784
+PanEcho,Contrast,lower_loa,-3.511384800273056
+PanEcho,Contrast,upper_loa,4.4391470766705705
+PanEcho,Contrast,loa_width,7.950531876943627
+PanEcho,Contrast,share_err_up,0.4984472049689441
+PanEcho,Contrast,mean_abs_change_abs_err,1.316680579006211
+PanEcho,Contrast,share_diff_positive,0.5046583850931677
+PanEcho,Contrast,share_diff_negative,0.4953416149068323
+PanEcho,Contrast,share_outside_loa,0.06521739130434782
+PanEcho,Contrast,pearson_r,0.981536689225761
+PanEcho,Contrast,ols_slope_diff_vs_mean,-0.06880980173540319
+PanEcho,Blur,delta_mae,0.4643703921739144
+PanEcho,Blur,rel_delta_mae,0.08031888806346049
+PanEcho,Blur,median_abs_drift,1.5799315000000007
+PanEcho,Blur,p95_abs_drift,9.1092994
+PanEcho,Blur,max_abs_drift,23.279677000000003
+PanEcho,Blur,bias,0.7123834487577637
+PanEcho,Blur,sd,4.005295434130144
+PanEcho,Blur,lower_loa,-7.137995602137318
+PanEcho,Blur,upper_loa,8.562762499652845
+PanEcho,Blur,loa_width,15.700758101790163
+PanEcho,Blur,share_err_up,0.5481366459627329
+PanEcho,Blur,mean_abs_change_abs_err,2.3473451042236024
+PanEcho,Blur,share_diff_positive,0.5077639751552795
+PanEcho,Blur,share_diff_negative,0.4922360248447205
+PanEcho,Blur,share_outside_loa,0.06366459627329192
+PanEcho,Blur,pearson_r,0.9211879087196679
+PanEcho,Blur,ols_slope_diff_vs_mean,-0.09359330173688538
+-,-,pairs_with_abs_delta_mae_lt_0.05,r2plus1d_18/gamma;r2plus1d_18/contrast;r2plus1d_18/blur;panecho/gamma;panecho/contrast
+near-zero pairs,-,median_abs_drift_min_max,0.5009820000000005;0.9386250000000018
+near-zero pairs,-,p95_abs_drift_min_max,1.7633065999999935;4.848994200000006
+near-zero pairs,-,max_abs_drift_min_max,4.032252;11.959535000000002
+near-zero pairs,-,loa_width_min_max,2.9195599265488212;7.950531876943627
+near-zero pairs,-,share_err_up_min_max,0.4751552795031056;0.5201863354037267
+near-zero pairs,-,mean_abs_change_abs_err_min_max,0.6649138506832298;1.316680579006211
+near-zero pairs,-,delta_mae_min_max,-0.044226721925465284;0.03850174555900665
+all 9 pairs,-,median_abs_drift_min_max,0.5009820000000005;3.1806680000000007
+all 9 pairs,-,p95_abs_drift_min_max,1.7633065999999935;9.1092994
+all 9 pairs,-,share_outside_loa_min_max,0.052795031055900624;0.06521739130434782
+all 9 pairs,-,ols_slope_diff_vs_mean_min_max,-0.09359330173688538;0.021284729055761054
+all 9 pairs,-,pearson_r_min_max,0.9211879087196679;0.9981262800612574
+ratio,-,blur loa_width PanEcho/X3D,2.699530466173356
+ratio,-,blur p95 PanEcho/X3D,2.3564220440033443
+ratio,-,gamma p95 PanEcho/R2+1D,1.5997211999319996
+ratio,-,gamma loa_width PanEcho/R2+1D,1.828773919360536
+ratio,-,contrast loa_width PanEcho/R2+1D,2.2929308272828646
